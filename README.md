@@ -1,39 +1,11 @@
 
-# RayXpress V3 PRO
+# RayXpress V3 PRO (Fixed)
 
-Commercial Delivery + Sales Tracking Platform
+Fixes the Next.js build error: page.js doesn't have a root layout.
 
-Includes:
-- Admin Dashboard
-- Restaurant Portal
-- Rider Panel
-- Finance Tracking
-- Sales Analytics
-- Order Management
-
-## Install
-
-1. Install NodeJS
-https://nodejs.org
-
-2. Open terminal inside this folder
-
-Run:
+Install:
 
 npm install
-
-Then run:
-
 npm run dev
 
-Open browser:
-
-http://localhost:3000
-
-## Deploy
-
-1. Upload this project to GitHub
-2. Connect GitHub to Vercel
-3. Deploy
-
-Your site will become live online.
+Open http://localhost:3000

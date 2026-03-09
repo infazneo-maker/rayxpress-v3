@@ -1,7 +1,7 @@
 
 export default function Home() {
   return (
-    <div style={{padding:40,fontFamily:"Arial"}}>
+    <div style={{padding:40}}>
       <h1>RayXpress V3 PRO</h1>
       <p>Commercial Delivery & Finance Platform</p>
       <ul>
